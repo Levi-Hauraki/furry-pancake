@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Levi-Hauraki/furry-pancake/issues"
   },
-  "homepage": "https://github.com/Levi-Hauraki/furry-pancake#readme"
+  "homepage": "https://github.com/Levi-Hauraki/furry-pancake#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
 }
